@@ -1,0 +1,6 @@
+{
+  "name": "Kasir POS Desktop",
+  "description": "Aplikasi Kasir Point of Sale (POS) Desktop yang modern, cepat, dan lengkap untuk toko, warung, atau restoran. Dilengkapi kelola stok, pencetakan struk, laporan penjualan, dan simulasi QRIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
